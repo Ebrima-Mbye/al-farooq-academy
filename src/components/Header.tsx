@@ -26,7 +26,7 @@ const Header = () => {
           <Link to="/" className="flex items-center space-x-2">
             <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center overflow-hidden">
               <img
-                src="/src/assets/logo.png"
+                src="/images/logo.jpg"
                 alt="Al-Farooq Academy Logo"
                 className="w-full h-full object-cover"
               />
